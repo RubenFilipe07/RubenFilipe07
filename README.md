@@ -11,6 +11,11 @@
 <a href="https://twitter.com/ruben_filipe07" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ruben_filipe07" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rubenfilipe07" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rubenfilipe07" height="30" width="40" /></a>
 <a href="https://instagram.com/ruben_filipe07" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ruben_filipe07" height="30" width="40" /></a>
-<a href="https://t.me/ruben_filipe07" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="leandro208" height="30" width="40" /></a>
+<a href="https://t.me/ruben_filipe07" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="ruben_filipe07" height="30" width="40" /></a>
 </p>
+
+<h3 align="left">Portfólio:</h3>
+<a href="https://rubenfilipe.me">Rubenfilipe.me</a> <br>
+<a href="https://rubenfilipe.me/linktree">Linktree</a> <br>
+<a href="https://rubenfilipe.me/curriculo">Currículo</a> <br>
 
