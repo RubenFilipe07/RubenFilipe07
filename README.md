@@ -1,4 +1,3 @@
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rubenfilipe07&layout=compact&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="left">Conhecimentos:</h3>
@@ -16,6 +15,5 @@
 
 <h3 align="left">Portfólio: <a href="https://rubenfilipe.me">Rubenfilipe.me</a> </h3>
 <h3 align="left">Linktree: <a href="https://rubenfilipe.me/linktree">Rubenfilipe.me/linktree</a></h3>
-<h3 align="left">Currículo: <a href="https://rubenfilipe.me/curriculo">Rubenfilipe.me/curriculo</a> <br></h3>
 
 
