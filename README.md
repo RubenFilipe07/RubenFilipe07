@@ -14,8 +14,8 @@
 <a href="https://t.me/ruben_filipe07" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="ruben_filipe07" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Portfólio:</h3>
-<a href="https://rubenfilipe.me">Rubenfilipe.me</a> <br>
-<a href="https://rubenfilipe.me/linktree">Linktree</a> <br>
-<a href="https://rubenfilipe.me/curriculo">Currículo</a> <br>
+<h3 align="left">Portfólio: <a href="https://rubenfilipe.me">Rubenfilipe.me</a> </h3>
+<h3 align="left">Linktree: <a href="https://rubenfilipe.me/linktree">Rubenfilipe.me/linktree</a></h3>
+<h3 align="left">Currículo: <a href="https://rubenfilipe.me/curriculo">Rubenfilipe.me/curriculo</a> <br></h3>
+
 
