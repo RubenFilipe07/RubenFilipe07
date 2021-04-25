@@ -10,15 +10,15 @@
 <a href="https://t.me/ruben_filipe07" target="blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram"/></a>
 
 <h3>Links:</h3>
-<a href="https:rubenfilipe.me" target="blank"><img src="https://img.shields.io/badge/Portf%C3%B3lio-4EA94B?style=for-the-badge" alt="Portfólio"/></a>
-<a href="https:rubenfilipe.me/linktree" target="blank"><img src="https://img.shields.io/badge/Linktree-07405E?style=for-the-badge" alt="Linktree"/></a>
-<a href="https:rubenfilipe.me/curriculo" target="blank"><img src="https://img.shields.io/badge/Curr%C3%ADculo-557C94?style=for-the-badge" alt="Currículo"/></a>  
+<a href="https:rubenfilipe.me" target="blank"><img src="https://img.shields.io/badge/Portf%C3%B3lio-607D8B?style=for-the-badge" alt="Portfólio"/></a>
+<a href="https:rubenfilipe.me/linktree" target="blank"><img src="https://img.shields.io/badge/Linktree-607D8B?style=for-the-badge" alt="Linktree"/></a>
+<a href="https:rubenfilipe.me/curriculo" target="blank"><img src="https://img.shields.io/badge/Curr%C3%ADculo-607D8B?style=for-the-badge" alt="Currículo"/></a>  
 
+<br>
 <br>
 
 <details>
   <summary>📃 Resumo</summary>
-
 
 <h2>📚 Formação acadêmica</h2>
 
