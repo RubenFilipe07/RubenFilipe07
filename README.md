@@ -32,3 +32,7 @@
 <img src="https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logoColor=white"/>
 
 </details>
+
+<p align="center">
+<img src="https://badges.pufler.dev/visits/rubenfilipe07/rubenfilipe07"/>
+</p>
