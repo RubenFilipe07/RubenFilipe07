@@ -21,9 +21,13 @@
   <summary>📃 Resumo</summary>
 
 <h2>📚 Formação acadêmica</h2>
+  
+ - 📖 **Bacharelado em tecnologia da informação**\
+📆 2021 - Momento\
+📍 **Universidade Federal do Rio Grande do Norte** - Natal, RN
 
 - 📖 **Técnico em informática**\
-📆 2017- 2021\
+📆 2017 - 2021\
 📍 **Instituto Federal do Rio Grande do Norte** - João Câmara, RN
 
 <h2>💻 Workspace</h2>
