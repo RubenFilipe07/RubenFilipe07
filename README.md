@@ -30,6 +30,12 @@
 - 📖 **Técnico em informática**\
 📆 2017 - 2021\
 📍 **Instituto Federal do Rio Grande do Norte** - João Câmara, RN
+  
+<h2>📚 Formação complementar</h2>
+  
+ - 📖 **Curso FIC de Programador web**\
+📆 2021 - 2021\
+📍 **Instituto Metrópole Digital - UFRN** - Natal, RN
 
 <h2>💻 Workspace</h2>
 <img src="https://img.shields.io/badge/Windows-ACER_Aspire_5-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>&nbsp;
