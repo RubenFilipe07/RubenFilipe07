@@ -21,7 +21,13 @@
 
 <details>
   <summary>📃 Resumo</summary>
+  
+<h2>👨‍💻 Experiência</h2>
 
+- 👨‍💻 **Bolsista de desenvolvimento web**\
+📆 10/2021 - Momento\
+📍 **Pró-Reitoria de Administração da UFRN (PROAD)** - Natal, RN
+  
 <h2>📚 Formação acadêmica</h2>
   
  - 📖 **Bacharelado em tecnologia da informação**\
