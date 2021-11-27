@@ -11,9 +11,9 @@
 <a href="https://twitter.com/ruben_filipe07" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/></a>
 
 <h3>Links:</h3>
-<a href="https://rubenfilipe-portfolio.web.app/" target="blank"><img src="https://img.shields.io/badge/Portf%C3%B3lio-607D8B?style=for-the-badge" alt="Portfólio"/></a>
-<a href="https://rubenfilipe-portfolio.web.app/linktree" target="blank"><img src="https://img.shields.io/badge/Linktree-607D8B?style=for-the-badge" alt="Linktree"/></a>
-<a href="https://rubenfilipe-portfolio.web.app/curriculo" target="blank"><img src="https://img.shields.io/badge/Curr%C3%ADculo-607D8B?style=for-the-badge" alt="Currículo"/></a>
+<a href="https://rubenfilipe07.me/" target="blank"><img src="https://img.shields.io/badge/Portf%C3%B3lio-607D8B?style=for-the-badge" alt="Portfólio"/></a>
+<a href="https://rubenfilipe07.me/linktree" target="blank"><img src="https://img.shields.io/badge/Linktree-607D8B?style=for-the-badge" alt="Linktree"/></a>
+<a href="https://rubenfilipe07.me/curriculo" target="blank"><img src="https://img.shields.io/badge/Curr%C3%ADculo-607D8B?style=for-the-badge" alt="Currículo"/></a>
 <a href="https://play.google.com/store/apps/dev?id=6757498449764923052" target="blank"><img src="https://img.shields.io/badge/Aplicativos-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Aplicativos"/></a>  
 
 <br>
