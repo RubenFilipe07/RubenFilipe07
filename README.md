@@ -44,16 +44,18 @@
 📆 2021 - 2021\
 📍 **Instituto Metrópole Digital - UFRN** - Natal, RN
 
-<h2>💻 Notebook</h2>
+<h2>🧑‍💻 Workspace</h2>
+  
+<h3>💻 Notebook</h3>
 <img src=https://img.shields.io/badge/acer-Aspire%205-83B81A?style=for-the-badge&logo=acer&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Windows%2011-007ADC?style=for-the-badge&logo=windows&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/intel-core%20i5%2010210u-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logoColor=white"/>
 
-<h2>🖥️ Monitor</h2>
+<h3>🖥️ Monitor</h3>
 <img src="https://img.shields.io/badge/monitor%20dell-s2421hn-007DB8?style=for-the-badge&logo=dell&logoColor=white"/>
 
-<h2>⌨️🖱️ Periféricos</h2>
+<h3>⌨️🖱️ Periféricos</h3>
 <img src="https://img.shields.io/badge/Mouse%20Logitech-G203-00ACE8?style=for-the-badge&logo=logitech&logoColor=white"/>
 <img src="https://img.shields.io/badge/Mousepad%20Logitech-G240-00ACE8?style=for-the-badge&logo=logitech&logoColor=white"/>      
                                                                                                                          
