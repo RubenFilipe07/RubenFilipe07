@@ -56,7 +56,8 @@
 <img src="https://img.shields.io/badge/monitor%20dell-s2421hn-007DB8?style=for-the-badge&logo=dell&logoColor=white"/>
 
 <h3>⌨️🖱️ Periféricos</h3>
-<img src="https://img.shields.io/badge/Mouse%20Logitech-G203-00ACE8?style=for-the-badge&logo=logitech&logoColor=white"/>
+<img src="https://img.shields.io/badge/Mouse%20Logitech-G203-00ACE8?style=for-the-badge&logo=logitech&logoColor=white"/>                                                        
+<img src="https://img.shields.io/badge/Teclado%20Logitech-G213-00ACE8?style=for-the-badge&logo=logitech&logoColor=white"/>
 <img src="https://img.shields.io/badge/Mousepad%20Logitech-G240-00ACE8?style=for-the-badge&logo=logitech&logoColor=white"/>      
                                                                                                                          
 </details>
