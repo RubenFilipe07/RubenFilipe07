@@ -24,10 +24,14 @@
   
 <h2>👨‍💻 Experiência</h2>
 
+  <img align="right" src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"/>
+<img align="right" src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
+<img align="right" src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
+
 - 👨‍💻 **Bolsista de desenvolvimento web**\
 📆 10/2021 - Momento\
 📍 **Pró-Reitoria de Administração da UFRN (PROAD)** - Natal, RN
-  
+
 <h2>📚 Formação acadêmica</h2>
   
  - 📖 **Bacharelado em tecnologia da informação**\
