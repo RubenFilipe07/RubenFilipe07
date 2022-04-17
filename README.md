@@ -51,7 +51,7 @@
 <h2>🧑‍💻 Workspace</h2>
   
 <h3>💻 Notebook</h3>
-<img src=https://img.shields.io/badge/acer-Aspire%205-83B81A?style=for-the-badge&logo=acer&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/acer-Aspire%205-83B81A?style=for-the-badge&logo=acer&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Windows%2011-007ADC?style=for-the-badge&logo=windows&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/intel-core%20i5%2010210u-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logoColor=white"/>
