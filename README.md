@@ -23,10 +23,11 @@
   <summary>📃 Resumo</summary>
   
 <h2>👨‍💻 Experiência</h2>
+ <img align="right" src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"/>
+ <img align="right" src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
+ <img align="right" src="https://img.shields.io/badge/Strapi-2F2E8B?style=flat&logo=strapi&logoColor=ffffff"/>
+ <img align="right" src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
 
-  <img align="right" src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"/>
-<img align="right" src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
-<img align="right" src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
 
 - 👨‍💻 **Bolsista de desenvolvimento web**\
 📆 10/2021 - Momento\
