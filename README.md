@@ -66,10 +66,3 @@
 <img src="https://img.shields.io/badge/Mousepad%20Logitech-G240-00ACE8?style=for-the-badge&logo=logitech&logoColor=white"/>      
                                                                                                                          
 </details>
-  
- <br/>                                                                                                                          
-                                                                                                                           
-<p align="center">
-<img src="https://badges.pufler.dev/visits/rubenfilipe07/rubenfilipe07"/>
-</p>
-
