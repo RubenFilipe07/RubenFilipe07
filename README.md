@@ -65,8 +65,8 @@
 <a href="https://twitter.com/ruben_filipe07" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/></a>
 
 ## **Links:**
-<a href="https://rubenfilipe.me/" target="blank"><img src="https://img.shields.io/badge/Portf%C3%B3lio-607D8B?style=for-the-badge" alt="Portfólio"/></a>
-<a href="https://rubenfilipe.me/curriculo" target="blank"><img src="https://img.shields.io/badge/Curr%C3%ADculo-607D8B?style=for-the-badge" alt="Currículo"/></a>
+<a href="https://rubenfilipe.me/" target="blank"><img src="https://img.shields.io/badge/Portf%C3%B3lio-000000?style=for-the-badge" alt="Portfólio"/></a>
+<a href="https://rubenfilipe.me/curriculo" target="blank"><img src="https://img.shields.io/badge/Curr%C3%ADculo-242735?style=for-the-badge" alt="Currículo"/></a>
 <a href="https://play.google.com/store/apps/dev?id=6757498449764923052" target="blank"><img src="https://img.shields.io/badge/Aplicativos-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Aplicativos"/></a>  
 
 ## **Sobre:**
