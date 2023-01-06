@@ -24,8 +24,8 @@
 ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white)
 ![React suite](https://img.shields.io/badge/React%20Suite-5989e4.svg?style=for-the-badge&logo=react&logoColor=EB7482)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Materialize](https://img.shields.io/badge/materialize-ef6e75.svg?style=for-the-badge&logo=materialdesign&logoColor=white)
 ![React Bootstrap](https://img.shields.io/badge/react%20bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Materialize](https://img.shields.io/badge/materialize-ef6e75.svg?style=for-the-badge&logo=materialdesign&logoColor=white)
 
 </details> 
 
@@ -42,6 +42,7 @@
   
 >![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+![Fly.io](https://img.shields.io/badge/fly.io-8e5ef2?style=for-the-badge)
 </details>
 
 <details>
