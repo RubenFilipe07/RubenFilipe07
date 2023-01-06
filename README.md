@@ -2,7 +2,7 @@
 
 
 ## **Minhas habilidades:**
-<details>
+<details open>
   <summary>Linguagens</summary>
  
  > ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -11,7 +11,7 @@
 
 </details>
 
-<details>
+<details open>
   <summary>Frameworks e Bibliotecas</summary>
   
 >![React](https://img.shields.io/badge/react.js-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -29,7 +29,7 @@
 
 </details> 
 
-<details>
+<details open>
   <summary>Banco de dados</summary>
   
 >![Mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
@@ -37,7 +37,7 @@
 
 </details>
 
-<details>
+<details open>
   <summary>Hospedagem</summary>
   
 >![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
@@ -45,14 +45,14 @@
 ![Fly.io](https://img.shields.io/badge/fly.io-8e5ef2?style=for-the-badge)
 </details>
 
-<details>
+<details open>
   <summary>Design</summary>
  
 >![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 </details>
 
-<details>
+<details open>
   <summary>Versionamento</summary>
   
 > ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
