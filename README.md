@@ -5,8 +5,10 @@
 <details open>
   <summary>Linguagens</summary>
  
- > ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
 ![TypeScript](https://img.shields.io/badge/Java-F82534?style=for-the-badge&logo=openjdk&logoColor=white)
 
 </details>
@@ -14,20 +16,36 @@
 <details open>
   <summary>Frameworks e Bibliotecas</summary>
   
->![React](https://img.shields.io/badge/react.js-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React](https://img.shields.io/badge/react.js-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
 ![React native](https://img.shields.io/badge/react%20Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+![Angular](https://img.shields.io/badge/angular-%2320232a.svg?style=for-the-badge&logo=angular&logoColor=c3002f)
+
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+
 ![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white)
+
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
+
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+
 ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white)
+
 ![React suite](https://img.shields.io/badge/React%20Suite-5989e4.svg?style=for-the-badge&logo=react&logoColor=EB7482)
+
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
 ![React Bootstrap](https://img.shields.io/badge/react%20bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
 ![Materialize](https://img.shields.io/badge/materialize-ef6e75.svg?style=for-the-badge&logo=materialdesign&logoColor=white)
+
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
   
 
@@ -36,7 +54,8 @@
 <details open>
   <summary>Banco de dados</summary>
   
->![Mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 </details>
@@ -44,9 +63,12 @@
 <details open>
   <summary>Hospedagem</summary>
   
->![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+
 ![Fly.io](https://img.shields.io/badge/fly.io-8e5ef2?style=for-the-badge)
+
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
   
 </details>
@@ -54,14 +76,15 @@
 <details open>
   <summary>Design</summary>
  
->![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 </details>
 
 <details open>
   <summary>Versionamento</summary>
   
-> ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+ 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 </details>
 
