@@ -60,7 +60,7 @@
 
 </details>
 
-<details open>
+<details>
   <summary>Hospedagem</summary>
   
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
@@ -73,14 +73,14 @@
   
 </details>
 
-<details open>
+<details>
   <summary>Design</summary>
  
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 </details>
 
-<details open>
+<details>
   <summary>Versionamento</summary>
   
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -105,16 +105,26 @@
   <summary>📃 Resumo</summary>
   
 <h2>👨‍💻 Experiência</h2>
- <img align="right" src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"/>
+<img align="right" src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white"/>
+<img align="right" src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white"/>
+<img align="right" src="https://img.shields.io/badge/JSF-3E721D?style=flat&logo=openjdk&logoColor=white"/>
+<img align="right" src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white"/>
+
+- 👨‍💻 **Desenvolvedor fullstack**\
+📆 11/2023 - Momento\
+📍 **Quark Tecnologia/Esig Group** - Natal, RN
+
  <img align="right" src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
  <img align="right" src="https://img.shields.io/badge/MySql-4479A1?style=flat&logo=mysql&logoColor=ffffff"/>
  <img align="right" src="https://img.shields.io/badge/Strapi-2F2E8B?style=flat&logo=strapi&logoColor=ffffff"/>
  <img align="right" src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
 
-
 - 👨‍💻 **Bolsista de desenvolvimento web**\
 📆 10/2021 - Momento\
 📍 **Pró-Reitoria de Administração da UFRN (PROAD)** - Natal, RN
+
+
+
 
 <h2>📚 Formação acadêmica</h2>
   
