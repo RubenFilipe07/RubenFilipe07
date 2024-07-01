@@ -110,8 +110,7 @@
 - 👨‍💻 **Desenvolvedor fullstack**\
 📆 06/2024 - Momento\
 📍 **SEPLAN/Governo do Estado do Rio Grande no Norte** - Natal, RN
-  
-<h2>👨‍💻 Experiência</h2>
+
 <img align="right" src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white"/>
 <img align="right" src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white"/>
 <img align="right" src="https://img.shields.io/badge/JSF-3E721D?style=flat&logo=openjdk&logoColor=white"/>
