@@ -103,6 +103,13 @@
 
 <details>
   <summary>📃 Resumo</summary>
+
+<h2>👨‍💻 Experiência</h2>
+<img align="right" src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white"/>
+
+- 👨‍💻 **Desenvolvedor fullstack**\
+📆 06/2024 - Momento\
+📍 **SEPLAN/Governo do Estado do Rio Grande no Norte** - Natal, RN
   
 <h2>👨‍💻 Experiência</h2>
 <img align="right" src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white"/>
@@ -111,7 +118,7 @@
 <img align="right" src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white"/>
 
 - 👨‍💻 **Desenvolvedor fullstack**\
-📆 11/2023 - Momento\
+📆 11/2023 - 02/2024\
 📍 **Quark Tecnologia/Esig Group** - Natal, RN
 
  <img align="right" src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
